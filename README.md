@@ -13,7 +13,7 @@ It answers product-related questions like:
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://raw.githubusercontent.com/yashtanwar17/ecommerce-ai-chatbot/main/static/abt.png)](https://raw.githubusercontent.com/yashtanwar17/ecommerce-ai-chatbot/main/static/demo.mp4)
+[!Demo](https://raw.githubusercontent.com/yashtanwar17/ecommerce-ai-chatbot/main/static/demo.mp4)
 
 ## 🤖 How it works
 
