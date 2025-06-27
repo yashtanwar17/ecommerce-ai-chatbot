@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lenovo V15 AMD Ryzen 7 7730U",
+    "desc": "15.6\" FHD 250 Nits Antiglare Thin and Light Laptop (16GB/512GB SSD/Windows 11/Iron Grey/1.65 Kg)",
+    "price": "42,890",
+    "image": "1.jpg",
+    "rating": 3.9,
+    "details": "Processor: AMD Ryzen 7 7730U, base 2.0 Ghz, max 4.5 Ghz, 8 Cores, 16MB L3 cache<br>Memory: 16GB DDR4 RAM 3200 MHz | Storage: 512GB SSD M.2<br>Display: 15.6\" FHD (1920x1080) 250 Nits, Antiglare<br>Graphics: Integrated AMD Radeon<br>Audio: Dolby Audio, Realtek ALC3287, Stereo speakers<br>Ports: USB-C, USB 2.0, USB 3.2, HDMI 1.4b, RJ-45, Headphone/mic<br>Camera: HD 720p with Privacy Shutter | Dual array mic<br>Keyboard: Spill-resistant, numeric keypad | Touchpad: Precision multi-touch"
+  },
+  {
+    "name": "Lenovo LOQ 2024 AMD Ryzen 5 7235HS",
+    "desc": "15.6\" 144Hz 300Nits FHD IPS Gaming Laptop (12GB/512GB SSD/Win 11/NVIDIA RTX 3050 6GB/100% sRGB)",
+    "price": "63,974",
+    "image": "2.jpg",
+    "rating": 4.5,
+    "details": "Processor: AMD Ryzen 5 7235HS, 3.2GHz - 4.2GHz | 4 Cores / 8 Threads<br>Display: 15.6\" FHD 144Hz | 100% sRGB | 300Nits<br>Memory: 12GB DDR5-4800 | Storage: 512GB SSD<br>Graphics: RTX 3050 6GB GDDR6<br>Cooling: Hyperchamber dual-fan thermal design<br>AI Engine+: MUX Switch + LA1 AI chip<br>Battery: 60Wh | Rapid Charge Pro | 6 hrs use<br>Audio: Nahimic surround sound, stereo speakers<br>Camera: 720p + shutter | Mic: Dual array"
+  },
+  {
+    "name": "MacBook Air - Midnight",
+    "desc": "13-inch, Retina display, Apple M4 chip (10-core CPU, 8-core GPU)",
+    "price": "99,900",
+    "image": "3.jpg",
+    "rating": 5.0,
+    "details": "Apple M4 chip with 10-core CPU, 8-core GPU, 16‑core Neural Engine<br>16GB unified memory | 256GB SSD<br>13.6″ Liquid Retina display with True Tone<br>12MP Center Stage camera | MagSafe 3 charging<br>Two Thunderbolt 4 ports | 30W USB-C Power Adapter<br>Backlit Magic Keyboard with Touch ID"
+  }
+]
