@@ -2,6 +2,8 @@
 
 This is the base structure of an AI-powered product support bot with e-commerce features.
 
+![E-commerce Chatbot Demo](https://raw.githubusercontent.com/yashtanwar17/ecommerce-ai-chatbot/refs/heads/main/static/abt.png)
+
 It answers product-related questions like:
 - Specifications
 - Prices
